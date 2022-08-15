@@ -1,0 +1,27 @@
+Arguments: 
+  /home/ochi/.nvm/versions/node/v13.8.0/bin/node /usr/share/yarn/bin/yarn.js add postcss tailwindcss@latest autoprefixer@latest cssnano@latest -D
+
+PATH: 
+  /opt/ros/humble/bin:/home/ochi/.nvm/versions/node/v13.8.0/bin:/home/ochi/anaconda3/condabin:/usr/share/rvm/gems/ruby-3.1.2/bin:/usr/share/rvm/gems/ruby-3.1.2@global/bin:/usr/share/rvm/rubies/ruby-3.1.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/usr/lib/jvm/java-17-oracle/bin:/usr/lib/jvm/java-17-oracle/db/bin:/usr/share/rvm/bin:/home/ochi/.rvm/bin:/home/ochi/.local/share/coursier/bin:/home/ochi/.local/share/coursier/bin:/usr/lib/jvm/java-17-oracle/bin:/usr/lib/jvm/java-17-oracle/db/bin:/home/ochi/.rvm/bin:/home/ochi/.local/bin:/home/ochi/.rvm/bin:/home/ochi/.local/share/coursier/bin:/home/ochi/.local/share/coursier/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  13.8.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
