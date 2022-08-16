@@ -1,0 +1,17 @@
+- project:
+    url: # Full URL
+    image: # path: assets/project/
+    date: 2019.06.09 - Developing
+    title: Demo Project
+    summary: Demo summary
+    description: Dummy description 1
+    skills: [android, web]
+
+- project:
+    url: # Full URL
+    image: # path: assets/project/
+    date: 2019.06.09 - Developing
+    title: Dummy project
+    summary: This is Dummy
+    description: Dummy description
+    skills: [web, duboise]

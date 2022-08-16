@@ -10,10 +10,6 @@
     {% include navbar.html %}
 
     <div class="container mx-auto px-20">
-      {% if page.url == "/" or "/portfolio" %}
-        {% include intro.html %}
-      {% endif %}
-
       {{ content }}
     </div>
 
