@@ -4,11 +4,5 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 plugins:
   - jekyll-postcss
-  - jekyll-paginate
-
 postcss:
   cache: false
-
-# Pagination
-paginate: 5
-paginate_path: "blog/page:num"
