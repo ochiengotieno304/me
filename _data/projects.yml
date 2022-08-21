@@ -1,14 +1,15 @@
 - project:
-    url: https://github.com/ochiengotieno304/Weather-App
-    image: # path: assets/project/
+    url: http://rapid-weather.herokuapp.com
+    github: https://github.com/ochiengotieno304/Weather-App
+    image: weather.png
     state: Complete
     title: Weather forecast web app
     summary: Weather forcast web app with ruby on rails
-    description: weather forcast web app using ruby on rails, displays current weather and a 7-day forecast
-    skills: [ruby, ruby on rails, api, open weather map]
+    description: weather forcast web app using ruby on rails, displays current weather and a 4-day forecast
+    skills: [ruby, ruby on rails, bootstrap, api, open weather map]
 
 - project:
-    url: https://github.com/ochiengotieno304/RSS-Feed-Reader-Terminal
+    github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Terminal
     image: # path: assets/project/
     state: Complete
     title: RSS Feed Reader (Terminal)
@@ -17,16 +18,17 @@
     skills: [ruby, terminal, rss]
 
 - project:
-    url: https://github.com/ochiengotieno304/RSS-Feed-Reader-Website
-    image: # path: assets/project/
-    state:
+    url: https://feeds-rss.herokuapp.com/
+    github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Website
+    image: rss.png
+    state: Complete
     title: RSS Feed Reader (Website)
     summary: Read rss feeds from your browser
     description: Reed rss feeds from your browser
     skills: [ruby, ruby on rails, rss]
 
 - project:
-    url: https://github.com/ochiengotieno304/qr-checkin-checkout
+    github: https://github.com/ochiengotieno304/qr-checkin-checkout
     image: # path: assets/project/
     state: In development
     title: Yulu
