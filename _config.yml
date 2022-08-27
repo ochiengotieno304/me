@@ -1,8 +1,22 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ochi.netlify.app/"
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Ochieng Otieno"
+tagline: "code along"
 
 plugins:
   - jekyll-postcss
+  - jekyll-seo-tag
+
 postcss:
   cache: false
+
+twitter:
+  username: ochiengotieno11
+  card: summary
+
+social:
+  name: Ochieng Otieno
+  links:
+    - https://twitter.com/ociengotieno11
+    - https://www.linkedin.com/in/ochi-oti71
+    - https://github.com/ochiengotieno304
