@@ -30,8 +30,17 @@
 - project:
     github: https://github.com/ochiengotieno304/qr-checkin-checkout
     image: # path: assets/project/
-    state: In development
+    state: Complete
     title: Yulu
     summary: Third year undergrad project
     description: A qr-code based check-in/check-out app
     skills: [android, java, kotlin, ruby, ruby on rails, jwt]
+
+- project:
+    github:  https://github.com/ochiengotieno304/temperature-converter
+    image: # path: assets/project/
+    state: Complete
+    title: Temperature Converter
+    summary: Android Kotlin Basics - Udacity
+    description: A temperature converter app
+    skills: [android,  kotlin]
