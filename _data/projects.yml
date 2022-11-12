@@ -3,6 +3,7 @@
     github: https://github.com/ochiengotieno304/Weather-App
     image: weather.png
     state: Complete
+    visible: true
     title: Weather forecast web app
     summary: Weather forcast web app with ruby on rails
     description: weather forcast web app using ruby on rails, displays current weather and a 4-day forecast
@@ -12,6 +13,7 @@
     github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Terminal
     image: # path: assets/project/
     state: Complete
+    visible: true
     title: RSS Feed Reader (Terminal)
     summary: Read rss feeds from your terminal
     description: Reed rss feeds from your terminal
@@ -22,6 +24,7 @@
     github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Website
     image: rss.png
     state: Complete
+    visible: true
     title: RSS Feed Reader (Website)
     summary: Read rss feeds from your browser
     description: Reed rss feeds from your browser
@@ -31,16 +34,28 @@
     github: https://github.com/ochiengotieno304/qr-checkin-checkout
     image: # path: assets/project/
     state: Complete
+    visible: true
     title: Yulu
     summary: Third year undergrad project
     description: A qr-code based check-in/check-out app
     skills: [android, java, kotlin, ruby, ruby on rails, jwt]
 
 - project:
-    github:  https://github.com/ochiengotieno304/temperature-converter
+    github: https://github.com/ochiengotieno304/temperature-converter
     image: # path: assets/project/
     state: Complete
+    visible: false
     title: Temperature Converter
     summary: Android Kotlin Basics - Udacity
     description: A temperature converter app
-    skills: [android,  kotlin]
+    skills: [android, kotlin]
+
+- project:
+    github: #
+    image: # path: assets/project/
+    state: Developing
+    visible: true
+    title: Website Downtime Monitor
+    summary: Monotor website, API and web service endpoints, send alerts on non-200 status codes
+    description:  Monotor website, API and web service endpoints, send alerts on non-200 status codes, recommend a maintenance action based on past failures
+    skills: [ruby, ruby on rails]
