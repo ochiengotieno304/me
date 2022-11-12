@@ -1,0 +1,19 @@
+- skill:
+    name: HTML & CSS
+    percentage: 87
+
+- skill:
+    name: Ruby on Rails
+    percentage: 81
+
+- skill:
+    name: Java Android
+    percentage: 68
+
+- skill:
+    name: Python Django
+    percentage: 67
+
+- skill:
+    name: AWS DevOps
+    percentage: 41
