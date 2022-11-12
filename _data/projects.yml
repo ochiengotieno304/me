@@ -59,3 +59,13 @@
     summary: Monotor website, API and web service endpoints, send alerts on non-200 status codes
     description:  Monotor website, API and web service endpoints, send alerts on non-200 status codes, recommend a maintenance action based on past failures
     skills: [ruby, ruby on rails]
+
+- project:
+    github: #
+    image: # path: assets/project/
+    state: Developing
+    visible: true
+    title: Tree Locator
+    summary: Locate your planted trees on maps through your phone
+    description: Plant a tree, register its cordinates, monitor it from anywhere through digital maps
+    skills: [ruby, ruby on rails, java, kotlin, android]
