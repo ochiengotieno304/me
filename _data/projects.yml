@@ -51,8 +51,9 @@
     skills: [android, kotlin]
 
 - project:
-    github: #
-    image: # path: assets/project/
+    github: https://github.com/ochiengotieno304/DowntimeMon
+    url: https://timely.onrender.com
+    image: timely.png
     state: Developing
     visible: true
     title: Website Downtime Monitor
