@@ -70,3 +70,13 @@
     summary: Locate your planted trees on maps through your phone
     description: Plant a tree, register its cordinates, monitor it from anywhere through digital maps
     skills: [ruby, ruby on rails, java, kotlin, android]
+
+- project:
+    github: https://github.com/ochiengotieno304/stanbic-api-ruby-wrapper
+    image: Kilele.png
+    state: Developing
+    visible: true
+    title: Stanbic Kilele Payments API Ruby SDK
+    summary: Easily integrate Stanbic Payments to your Ruby applications
+    description: Easily integrate Stanbic Payments to your Ruby applications
+    skills: [ruby, sdk, payments api]
