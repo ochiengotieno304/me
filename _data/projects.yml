@@ -58,14 +58,14 @@
     visible: true
     title: Website Downtime Monitor
     summary: Monotor website, API and web service endpoints, send alerts on non-200 status codes
-    description:  Monotor website, API and web service endpoints, send alerts on non-200 status codes, recommend a maintenance action based on past failures
+    description: Monotor website, API and web service endpoints, send alerts on non-200 status codes, recommend a maintenance action based on past failures
     skills: [ruby, ruby on rails]
 
 - project:
     github: #
     image: # path: assets/project/
     state: Developing
-    visible: true
+    visible: false
     title: Tree Locator
     summary: Locate your planted trees on maps through your phone
     description: Plant a tree, register its cordinates, monitor it from anywhere through digital maps
@@ -80,3 +80,14 @@
     summary: Easily integrate Stanbic Payments to your Ruby applications
     description: Easily integrate Stanbic Payments to your Ruby applications
     skills: [ruby, sdk, payments api]
+
+- project:
+    github: https://github.com/ochiengotieno304/dubbii-stream
+    url: https://dubbii.onrender.com
+    image: dubbii.png
+    state: Developing
+    visible: true
+    title: Dubbii
+    summary: Watch your favorite movies and listen to your favorite radio stations
+    description: Movie and radio streaming service
+    skills: [python, flask, tailwindcss, streaming]
