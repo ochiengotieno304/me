@@ -73,13 +73,14 @@
 
 - project:
     github: https://github.com/ochiengotieno304/stanbic-api-ruby-wrapper
+    url: https://rubygems.org/gems/stanbic
     image: Kilele.png
     state: Developing
     visible: true
     title: Stanbic Kilele Payments API Ruby SDK
     summary: Easily integrate Stanbic Payments to your Ruby applications
     description: Easily integrate Stanbic Payments to your Ruby applications
-    skills: [ruby, sdk, payments api]
+    skills: [ruby, sdk, api wrapper, payments api]
 
 - project:
     github: https://github.com/ochiengotieno304/dubbii-stream
@@ -91,3 +92,14 @@
     summary: Watch your favorite movies and listen to your favorite radio stations
     description: Movie and radio streaming service
     skills: [python, flask, tailwindcss, streaming]
+
+
+- project:
+    github: https://github.com/ochiengotieno304/streamsb-ruby
+    url: https://rubygems.org/gems/streamsb
+    state: Complete
+    visible: true
+    title: StreamSB Ruby Client
+    summary: Ruby client for StreamSB video server
+    description: Easily  integrate StreamSB video server with your Ruby application
+    skills: [ruby, sdk, api, api wrapper, streaming api]
