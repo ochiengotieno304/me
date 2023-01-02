@@ -6,6 +6,7 @@ tagline: "code along"
 plugins:
   - jekyll-postcss
   - jekyll-seo-tag
+  - jekyll-feed
 
 postcss:
   cache: false
@@ -20,3 +21,11 @@ social:
     - https://twitter.com/ociengotieno11
     - https://www.linkedin.com/in/ochi-oti71
     - https://github.com/ochiengotieno304
+
+kramdown:
+  gfm_quirks: [paragraph_end]
+  input: Kramdown
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table
+    bold_every: 5
