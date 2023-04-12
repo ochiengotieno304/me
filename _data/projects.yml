@@ -83,6 +83,17 @@
     skills: [ruby, sdk, api wrapper, payments api]
 
 - project:
+    github: https://github.com/ochiengotieno304/stanbic-node.js
+    url: https://www.npmjs.com/package/stanbic
+    image: KileleJS.png
+    state: Developing
+    visible: true
+    title: Stanbic Kilele Payments API NodeJS SDK
+    summary: Easily integrate Stanbic Payments to your Javascript and Typescript applications
+    description: Easily integrate Stanbic Payments to your JS and TS applications
+    skills: [javascript, sdk, api wrapper, payments api]
+
+- project:
     github: https://github.com/ochiengotieno304/dubbii-stream
     url: https://dubbii.onrender.com
     image: dubbii.png
