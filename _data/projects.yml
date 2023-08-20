@@ -1,116 +1,106 @@
 - project:
-    url: http://rapid-weather.herokuapp.com
-    github: https://github.com/ochiengotieno304/Weather-App
-    image: weather.png
-    state: Complete
-    visible: true
-    title: Weather forecast web app
-    summary: Weather forcast web app with ruby on rails
-    description: weather forcast web app using ruby on rails, displays current weather and a 4-day forecast
-    skills: [ruby, ruby on rails, bootstrap, api, open weather map]
+      url: https://rapidapi.com/ochiengotieno304/api/feedpulse2
+      github: https://ochiengotieno304.github.io/feedpulse-api-docs
+      state: Complete
+      visible: true
+      image: feedpulse.jpeg
+      title: Feed Pulse News API
+      summary: World News API
+      description: Up-to-date news content from 7000+ news sources and 40+ countries
+      skills: [ruby, api, media & entertainment api, news]
 
 - project:
-    github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Terminal
-    image: # path: assets/project/
-    state: Complete
-    visible: true
-    title: RSS Feed Reader (Terminal)
-    summary: Read rss feeds from your terminal
-    description: Reed rss feeds from your terminal
-    skills: [ruby, terminal, rss]
+      github: https://github.com/ochiengotieno304/stanbic-node.js
+      url: https://www.npmjs.com/package/stanbic
+      image: KileleJS.png
+      state: Complete
+      visible: true
+      title: Stanbic Kilele Payments API NodeJS SDK
+      summary: Easily integrate Stanbic Payments to your Javascript and Typescript applications
+      description: Easily integrate Stanbic Payments to your JS and TS applications
+      skills: [javascript, sdk, api wrapper, payments api]
 
 - project:
-    url: https://feeds-rss.herokuapp.com/
-    github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Website
-    image: rss.png
-    state: Complete
-    visible: true
-    title: RSS Feed Reader (Website)
-    summary: Read rss feeds from your browser
-    description: Reed rss feeds from your browser
-    skills: [ruby, ruby on rails, rss]
+      github: https://github.com/ochiengotieno304/stanbic-api-ruby-wrapper
+      url: https://rubygems.org/gems/stanbic
+      image: Kilele.png
+      state: Complete
+      visible: true
+      title: Stanbic Kilele Payments API Ruby SDK
+      summary: Easily integrate Stanbic Payments to your Ruby applications
+      description: Easily integrate Stanbic Payments to your Ruby applications
+      skills: [ruby, sdk, api wrapper, payments api]
 
 - project:
-    github: https://github.com/ochiengotieno304/qr-checkin-checkout
-    image: # path: assets/project/
-    state: Complete
-    visible: true
-    title: Yulu
-    summary: Third year undergrad project
-    description: A qr-code based check-in/check-out app
-    skills: [android, java, kotlin, ruby, ruby on rails, jwt]
+      github: https://github.com/ochiengotieno304/DowntimeMon
+      url: https://timely.onrender.com
+      image: timely.png
+      state: Complete
+      visible: true
+      title: Website Downtime Monitor
+      summary: Monotor website, API and web service endpoints, send alerts on non-200 status codes
+      description: Monotor website, API and web service endpoints, send alerts on non-200 status codes, recommend a maintenance action based on past failures
+      skills: [ruby, ruby on rails]
 
 - project:
-    github: https://github.com/ochiengotieno304/temperature-converter
-    image: # path: assets/project/
-    state: Complete
-    visible: false
-    title: Temperature Converter
-    summary: Android Kotlin Basics - Udacity
-    description: A temperature converter app
-    skills: [android, kotlin]
+      github: https://github.com/ochiengotieno304/streamsb-ruby
+      url: https://rubygems.org/gems/streamsb
+      state: Complete
+      visible: true
+      title: StreamSB Ruby Client
+      summary: Ruby client for StreamSB video server
+      description: Easily  integrate StreamSB video server with your Ruby application
+      skills: [ruby, sdk, api, api wrapper, streaming api]
 
 - project:
-    github: https://github.com/ochiengotieno304/DowntimeMon
-    url: https://timely.onrender.com
-    image: timely.png
-    state: Developing
-    visible: true
-    title: Website Downtime Monitor
-    summary: Monotor website, API and web service endpoints, send alerts on non-200 status codes
-    description: Monotor website, API and web service endpoints, send alerts on non-200 status codes, recommend a maintenance action based on past failures
-    skills: [ruby, ruby on rails]
+      github: https://github.com/ochiengotieno304/qr-checkin-checkout
+      image: # path: assets/project/
+      state: Complete
+      visible: true
+      title: Yulu
+      summary: Third year undergrad project
+      description: A qr-code based check-in/check-out app
+      skills: [android, java, kotlin, ruby, ruby on rails, jwt]
 
 - project:
-    github: #
-    image: # path: assets/project/
-    state: Developing
-    visible: false
-    title: Tree Locator
-    summary: Locate your planted trees on maps through your phone
-    description: Plant a tree, register its cordinates, monitor it from anywhere through digital maps
-    skills: [ruby, ruby on rails, java, kotlin, android]
+      url: http://rapid-weather.herokuapp.com
+      github: https://github.com/ochiengotieno304/Weather-App
+      image: weather.png
+      state: Complete
+      visible: true
+      title: Weather forecast web app
+      summary: Weather forcast web app with ruby on rails
+      description: weather forcast web app using ruby on rails, displays current weather and a 4-day forecast
+      skills: [ruby, ruby on rails, bootstrap, api, open weather map]
 
 - project:
-    github: https://github.com/ochiengotieno304/stanbic-api-ruby-wrapper
-    url: https://rubygems.org/gems/stanbic
-    image: Kilele.png
-    state: Developing
-    visible: true
-    title: Stanbic Kilele Payments API Ruby SDK
-    summary: Easily integrate Stanbic Payments to your Ruby applications
-    description: Easily integrate Stanbic Payments to your Ruby applications
-    skills: [ruby, sdk, api wrapper, payments api]
+      github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Terminal
+      image: # path: assets/project/
+      state: Complete
+      visible: true
+      title: RSS Feed Reader (Terminal)
+      summary: Read rss feeds from your terminal
+      description: Reed rss feeds from your terminal
+      skills: [ruby, terminal, rss]
 
 - project:
-    github: https://github.com/ochiengotieno304/stanbic-node.js
-    url: https://www.npmjs.com/package/stanbic
-    image: KileleJS.png
-    state: Developing
-    visible: true
-    title: Stanbic Kilele Payments API NodeJS SDK
-    summary: Easily integrate Stanbic Payments to your Javascript and Typescript applications
-    description: Easily integrate Stanbic Payments to your JS and TS applications
-    skills: [javascript, sdk, api wrapper, payments api]
+      url: https://feeds-rss.herokuapp.com/
+      github: https://github.com/ochiengotieno304/RSS-Feed-Reader-Website
+      image: rss.png
+      state: Complete
+      visible: true
+      title: RSS Feed Reader (Website)
+      summary: Read rss feeds from your browser
+      description: Reed rss feeds from your browser
+      skills: [ruby, ruby on rails, rss]
 
 - project:
-    github: https://github.com/ochiengotieno304/dubbii-stream
-    url: https://dubbii.onrender.com
-    image: dubbii.png
-    state: Developing
-    visible: true
-    title: Dubbii
-    summary: Watch your favorite movies and listen to your favorite radio stations
-    description: Movie and radio streaming service
-    skills: [python, flask, tailwindcss, streaming]
-
-
-- project:
-    github: https://github.com/ochiengotieno304/streamsb-ruby
-    url: https://rubygems.org/gems/streamsb
-    state: Complete
-    visible: true
-    title: StreamSB Ruby Client
-    summary: Ruby client for StreamSB video server
-    description: Easily  integrate StreamSB video server with your Ruby application
-    skills: [ruby, sdk, api, api wrapper, streaming api]
+      github: https://github.com/ochiengotieno304/dubbii-stream
+      url: https://dubbii.onrender.com
+      image: dubbii.png
+      state: Developing
+      visible: true
+      title: Dubbii
+      summary: Watch your favorite movies and listen to your favorite radio stations
+      description: Movie and radio streaming service
+      skills: [python, flask, tailwindcss, streaming]
